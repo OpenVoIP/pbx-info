@@ -1,0 +1,16 @@
+{
+  "name": "pbx-info",
+  "version": "0.0.3",
+  "description": "get pbx info (cpu, mem, version）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "voip",
+    "pbx",
+    "cpu"
+  ],
+  "author": "tqcenglish",
+  "license": "MIT"
+}
